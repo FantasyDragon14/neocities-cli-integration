@@ -1,7 +1,15 @@
 {
   "name": "neocities-cli-integration",
   "displayName": "neocities cli integration",
-  "description": "",
+  "description": "an extension to interface with neocities-cli in vscode.\ndoes not really work the way i want it to yet, \nbut at least it ensures neocities-cli is installed and tells you what to do if it can't do that",
+  "publisher": "FantasyDragon14",
+  "bugs": {
+    "url": "https://github.com/FantasyDragon14/neocities-cli-integration/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FantasyDragon14/neocities-cli-integration.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
